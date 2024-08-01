@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 gg
+=======
+bnmbn
+>>>>>>> Stashed changes
